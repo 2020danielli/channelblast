@@ -1,6 +1,6 @@
 # channelblast
 
-To use, download web.py and photos folder. Run in terminal. Multiple instances can be run at once. It can also be hosted on a box if you hope to use it non locally.  
+To use, download web.py and photos folder. Run the following command in terminal. Multiple instances can be run at once. It can also be hosted on a box if you hope to use it non locally.  
 
 <pre><code>bokeh serve --show web.py</code></pre>
 
