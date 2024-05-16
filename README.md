@@ -4,6 +4,7 @@ Script to multiply and combine different YCrCb channels into one image. Draws Y 
 
 Examples with default images. 
 
+![Mode 0](./ex7.png)
 ![Mode 0](./ex2.png)
 ![Mode 0](./ex4.png)
 ![Mode 0](./ex1.png)
