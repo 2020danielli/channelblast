@@ -4,10 +4,10 @@ Script to multiply and combine different YCrCb channels into one image. Draws Y 
 
 Examples with default images. 
 
-![Mode 0](./ex7.png)
-![Mode 0](./ex4.png)
-![Mode 0](./ex2.png)
-![Mode 0](./ex1.png)
+![Mode 0](./examples/ex7.png)
+![Mode 0](./examples/ex4.png)
+![Mode 0](./examples/ex2.png)
+![Mode 0](./examples/ex1.png)
 
 To use, download web.py and photos folder. Run the following command in terminal. Multiple instances can be run at once. It can also be hosted on a box if you hope to use it non locally.  
 
